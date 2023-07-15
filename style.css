@@ -1,0 +1,47 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #orderButton, #payButton {
+    padding: 10px 20px;
+    background-color: #FF4500;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #preparationStatus {
+    font-style: italic;
+    color: #888;
+  }
+  
+  footer {
+    background-color: #222;
+    padding: 20px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
